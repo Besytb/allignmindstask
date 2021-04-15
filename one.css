@@ -1,0 +1,146 @@
+#on{
+    background-image:url(images/new.png);
+    background-repeat:  no-repeat;
+height: 1350px; ;
+width:1450px ;
+    
+}
+.verticalLine{
+    border-left: thin solid white;
+    
+}
+#two{
+    margin-left: 5.6cm;
+}
+#thr{
+    color: white;
+    margin-left: 6cm;
+}
+#for{
+    font-size: 2cm;
+    color: red;
+    margin-left:.000001px;
+}
+#fiv{
+    color: white;
+    margin-left:5.6cm ;
+}#six{
+    color:white;
+    margin-left: 28cm;
+}
+#sev{
+    background-image:url(images/download.jpg);
+    background-repeat:  no-repeat;
+    background-size: 100% 100%;
+    width:1450px ;
+}
+#eig{
+    background-color: black;
+text-align: justify;
+color: white;
+margin-left: 8cm;
+margin-right:8cm ;
+}
+#nin{
+    text-align: center;
+    color: white;
+}
+#te{
+    color: red;
+}
+#ele{
+    background-color: red;
+    color: white;
+    text-align: center;
+    margin-left: 8cm;
+margin-right:8cm ;
+
+}
+#twe{
+    background-image:url(images/download\ \(1\).jpg);
+    background-repeat:  no-repeat;
+    background-size: 100% 100%;
+
+    margin-left: 8cm;
+    margin-right:8cm ;
+
+}
+#thir{
+    margin-left: 150px;
+}
+#forr{
+    margin-left: 150px; 
+    margin-right: 150px;
+}
+#fift{
+    color: red;
+    margin-left:150px ;
+}
+#sis{
+    background-color: red;
+    color: white;
+    text-align: center;
+
+
+}
+#button{
+    margin-left:300px ;
+    color: red;
+    background-color: rgb(128, 128, 128);
+}
+#seve{
+    color: red;
+    text-align: center;
+    
+
+}
+#tone{
+    width: 350px;
+height: 400px;
+margin-left: 1cm;
+}
+#tth{
+background-color:rgb(128, 128, 128) ;
+color: red;
+
+
+}
+#tff{
+    margin-left:9cm ;
+}
+#ttt{
+    margin-left:13cm ;
+    color: white;
+}
+#tfi{
+  margin-left: 5cm;  
+  color: white;
+}
+#tsi{
+    margin-right: 1cm;
+    color: white;
+}
+#tsev{
+    color: red;
+    margin-left:5cm ;
+}
+#teig{
+    color: white;
+    text-align: center;
+}
+#re{
+    color: red;
+}
+#too{
+    background-color: red;
+    border-color: red;
+    color: white;
+margin-left: 18cm;
+}
+#pic{
+    width:1450px ;
+    height: 300px;
+}
+#no{
+    margin-left:3cm ;
+}
